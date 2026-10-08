@@ -1,5 +1,6 @@
 ## Repository Contents
 
+This repository is a continuation of 【https://github.com/w2430145/dialogue-agent-agency-responsibility 】which can no longer be maintained because access to the original account was lost.
 This repository is structured into the following directories and files:
 
 ### `R_scripts/` (R Scripts)
